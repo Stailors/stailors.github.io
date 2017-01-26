@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('/stailors/fonts/icomoon.eot?ltdr0g');
-  src:  url('/stailors/fonts/icomoon.eot?ltdr0g#iefix') format('embedded-opentype'),
-    url('/stailors/fonts/icomoon.ttf?ltdr0g') format('truetype'),
-    url('/stailors/fonts/icomoon.woff?ltdr0g') format('woff'),
-    url('/stailors/fonts/icomoon.svg?ltdr0g#icomoon') format('svg');
+  src:  url('/fonts/icomoon.eot?ltdr0g');
+  src:  url('/fonts/icomoon.eot?ltdr0g#iefix') format('embedded-opentype'),
+    url('/fonts/icomoon.ttf?ltdr0g') format('truetype'),
+    url('/fonts/icomoon.woff?ltdr0g') format('woff'),
+    url('/fonts/icomoon.svg?ltdr0g#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -827,7 +827,7 @@ body {
 }
 
 .bg-phi {
-  background:url('/stailors/img/graph.jpg') no-repeat center center fixed; 
+  background:url('../img/graph.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
