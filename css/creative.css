@@ -427,7 +427,8 @@ hr {
   max-width: 50px;
 }
 hr.light {
-  border-color: white;
+  border-color: #EA3556;
+  margin-left: 0;
 }
 a {
   -webkit-transition: all 0.35s;
