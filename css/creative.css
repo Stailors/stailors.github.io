@@ -900,4 +900,4 @@ header::before {
 /*.shopifysetup .header-content hr {max-width: 150px;
     margin-left: 0;} */
 .shopifysetup hr {margin-left: 0!important;}
-.shopifysetup header { background-image: url('../img/start-now.jpg')!important;
+.shopifysetup header { background-image: url('../img/start-now.jpg')!important;  opacity: 0.8!important;} 
