@@ -889,15 +889,15 @@ header::before {
 }
 
 
-.text-left {text-align:left;}
+.text-left {text-align:left!important;}
 .width500 {max-width:700px; color:#ccc;}
 #bullets h3 {text-align:left;}
 #bullets .row {margin-bottom:20px;}
-#bullets p {font-size:18px; text-align:left;}
+#bullets p {font-size:18px!important; text-align:left;}
 .shopifysetup h1 {font-size:40px;     font-weight: 600;}
 .shopifysetup h2 {font-size:33px;}
 .shopifysetup .container {max-width:980px;}
 /*.shopifysetup .header-content hr {max-width: 150px;
     margin-left: 0;} */
-.shopifysetup hr {margin-left: 0;}
-.shopifysetup header { background-image: url('../img/start-now.jpg');
+.shopifysetup hr {margin-left: 0!important;}
+.shopifysetup header { background-image: url('../img/start-now.jpg')!important;
